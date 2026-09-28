@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "FSC-BT1104QI") (type "KiCad") (uri "${KIPRJMOD}/libraries/FSC-BT1104QI/FSC-BT1104QI.kicad_sym") (options "") (descr ""))
+)

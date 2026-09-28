@@ -1,0 +1,8 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "FSC-BT1104QI") (type "KiCad") (uri "${KIPRJMOD}/libraries/FSC-BT1104QI/FSC-BT1104QI.pretty") (options "") (descr ""))
+	(lib (name "GMI4015P-2C-42db") (type "KiCad") (uri "${KIPRJMOD}/libraries/GMI4015P-2C-42db/GMI4015P-2C-42db.pretty") (options "") (descr ""))
+	(lib (name "UJ20-C-R-G-TH-P14") (type "KiCad") (uri "${KIPRJMOD}/libraries/UJ20-C-R-G-TH-P14/UJ20-C-R-G-TH-P14.pretty") (options "") (descr ""))
+	(lib (name "SHOUHAN_TYPE-C_16PIN_2MD__073") (type "KiCad") (uri "${KIPRJMOD}/libraries/SHOUHAN_TYPE-C_16PIN_2MD__073") (options "") (descr ""))
+	(lib (name "TAXM12M4RLBDDT2T") (type "KiCad") (uri "${KIPRJMOD}/libraries/TAXM12M4RLBDDT2T/TAXM12M4RLBDDT2T.pretty") (options "") (descr ""))
+)
