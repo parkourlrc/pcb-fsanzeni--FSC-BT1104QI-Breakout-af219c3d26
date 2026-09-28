@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270.22 210.95">
+  <g id="P2_pins" data-name="P2 pins">
+    <g>
+      <circle id="circle57437" cx="163.91" cy="34.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57455" cx="163.91" cy="22.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle15065" cx="163.91" cy="190.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle16508" cx="163.91" cy="202.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle17338" cx="163.91" cy="178.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle17366" cx="163.91" cy="166.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle17394" cx="163.91" cy="154.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57275" cx="163.91" cy="142.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57293" cx="163.91" cy="130.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57311" cx="163.91" cy="118.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57329" cx="163.91" cy="106.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57347" cx="163.91" cy="94.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57365" cx="163.91" cy="82.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57383" cx="163.91" cy="70.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57401" cx="163.91" cy="58.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57419" cx="163.91" cy="46.89" r="4.21" style="fill: #fc0;"/>
+      <rect id="rect60306" x="118.71" y="14.84" width="32.42" height="196.12" style="fill: #333;"/>
+      <path id="path17340" d="M192.49,178.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle17350" cx="163.91" cy="178.89" r="2.32"/>
+      <path id="path57223" d="M192.49,202.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle16510" cx="163.91" cy="202.89" r="2.32"/>
+      <path id="path57233" d="M192.49,190.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle15067" cx="163.91" cy="190.89" r="2.32"/>
+      <path id="path57243" d="M192.49,166.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle17378" cx="163.91" cy="166.89" r="2.32"/>
+      <path id="path57253" d="M192.49,154.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle17406" cx="163.91" cy="154.89" r="2.32"/>
+      <path id="path57283" d="M192.49,142.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57277" cx="163.91" cy="142.89" r="2.32"/>
+      <path id="path57301" d="M192.49,130.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57295" cx="163.91" cy="130.89" r="2.32"/>
+      <path id="path57319" d="M192.49,118.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57313" cx="163.91" cy="118.89" r="2.32"/>
+      <path id="path57337" d="M192.49,106.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57331" cx="163.91" cy="106.89" r="2.32"/>
+      <path id="path57355" d="M192.49,94.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57349" cx="163.91" cy="94.89" r="2.32"/>
+      <path id="path57373" d="M192.49,82.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57367" cx="163.91" cy="82.89" r="2.32"/>
+      <path id="path57391" d="M192.49,70.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57385" cx="163.91" cy="70.89" r="2.32"/>
+      <path id="path57409" d="M192.49,58.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57403" cx="163.91" cy="58.89" r="2.32"/>
+      <path id="path57427" d="M192.49,46.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57421" cx="163.91" cy="46.89" r="2.32"/>
+      <path id="path57445" d="M192.49,34.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57439" cx="163.91" cy="34.89" r="2.32"/>
+      <path id="path57463" d="M192.49,22.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57457" cx="163.91" cy="22.89" r="2.32"/>
+      <circle id="circle59876" cx="106.31" cy="202.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path59884" d="M106.09,202.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle59878" cx="106.31" cy="202.89" r="2.32"/>
+      <circle id="circle59900" cx="106.31" cy="190.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path59908" d="M106.09,190.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle59902" cx="106.31" cy="190.89" r="2.32"/>
+      <circle id="circle59924" cx="106.31" cy="178.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path59932" d="M106.09,178.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle59926" cx="106.31" cy="178.89" r="2.32"/>
+      <circle id="circle59948" cx="106.31" cy="166.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path59956" d="M106.09,166.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle59950" cx="106.31" cy="166.89" r="2.32"/>
+      <circle id="circle59972" cx="106.31" cy="154.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path59980" d="M106.09,154.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle59974" cx="106.31" cy="154.89" r="2.32"/>
+      <circle id="circle59996" cx="106.31" cy="142.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60004" d="M106.09,142.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle59998" cx="106.31" cy="142.89" r="2.32"/>
+      <circle id="circle60020" cx="106.31" cy="130.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60028" d="M106.09,130.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60022" cx="106.31" cy="130.89" r="2.32"/>
+      <circle id="circle60044" cx="106.31" cy="118.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60052" d="M106.09,118.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60046" cx="106.31" cy="118.89" r="2.32"/>
+      <circle id="circle60068" cx="106.31" cy="106.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60076" d="M106.09,106.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60070" cx="106.31" cy="106.89" r="2.32"/>
+      <circle id="circle60092" cx="106.31" cy="94.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60100" d="M106.09,94.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60094" cx="106.31" cy="94.89" r="2.32"/>
+      <circle id="circle60116" cx="106.31" cy="82.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60124" d="M106.09,82.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60118" cx="106.31" cy="82.89" r="2.32"/>
+      <circle id="circle60140" cx="106.31" cy="70.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60148" d="M106.09,70.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60142" cx="106.31" cy="70.89" r="2.32"/>
+      <circle id="circle60164" cx="106.31" cy="58.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60172" d="M106.09,58.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60166" cx="106.31" cy="58.89" r="2.32"/>
+      <circle id="circle60188" cx="106.31" cy="46.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60196" d="M106.09,46.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60190" cx="106.31" cy="46.89" r="2.32"/>
+      <circle id="circle60212" cx="106.31" cy="34.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60220" d="M106.09,34.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60214" cx="106.31" cy="34.89" r="2.32"/>
+      <circle id="circle60236" cx="106.31" cy="22.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60244" d="M106.09,22.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60238" cx="106.31" cy="22.89" r="2.32"/>
+      <path id="path60230" d="M131.17,26.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60232" d="M122.68,17.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.91,19.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.75 24.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">01</tspan></text>
+      <path id="path59550" d="M145.57,26.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59552" d="M137.08,17.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.31,19.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.1 24.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">02</tspan></text>
+      <path id="path60206" d="M131.16,38.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60208" d="M122.67,29.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.9,31.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.74 36.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">03</tspan></text>
+      <path id="path59544" d="M145.51,38.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59546" d="M137.02,29.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.25,31.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.09 36.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">04</tspan></text>
+      <path id="path60182" d="M131.17,50.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60184" d="M122.68,41.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.91,43.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.75 48.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">05</tspan></text>
+      <path id="path59538" d="M145.54,50.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59540" d="M137.05,41.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.28,43.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.12 48.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">06</tspan></text>
+      <path id="path60158" d="M131.13,62.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60160" d="M122.64,53.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.87,55.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.71 60.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">07</tspan></text>
+      <path id="path59532" d="M145.55,62.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59534" d="M137.06,53.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.29,55.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.13 60.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">08</tspan></text>
+      <path id="path60134" d="M131.14,74.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60136" d="M122.65,65.65v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.88,67.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.72 72.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">09</tspan></text>
+      <path id="path59526" d="M145.49,74.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59528" d="M137.01,65.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.24,67.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.08 72.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">10</tspan></text>
+      <path id="path60110" d="M131.17,86.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60112" d="M122.68,77.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.91,79.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.72 84.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">11</tspan></text>
+      <path id="path59520" d="M145.57,86.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59522" d="M137.08,77.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.31,79.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.07 84.34)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">12</tspan></text>
+      <path id="path59514" d="M145.57,98.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59516" d="M137.08,89.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.31,91.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.06 96.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">14</tspan></text>
+      <path id="path60086" d="M131.17,98.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60088" d="M122.68,89.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.91,91.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.71 96.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">13</tspan></text>
+      <path id="path60062" d="M131.17,110.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60064" d="M122.68,101.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.91,103.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.73 108.3)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">15</tspan></text>
+      <path id="path59508" d="M145.57,110.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59510" d="M137.08,101.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.31,103.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.09 108.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">16</tspan></text>
+      <path id="path60038" d="M131.09,122.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60040" d="M122.61,113.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.84,115.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.68 120.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">17</tspan></text>
+      <path id="path59502" d="M145.51,122.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59504" d="M137.03,113.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.25,115.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.1 120.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">18</tspan></text>
+      <path id="path60014" d="M131.1,134.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60016" d="M122.62,125.65v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.85,127.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.69 132.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">19</tspan></text>
+      <path id="path59496" d="M145.52,134.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59498" d="M137.03,125.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.26,127.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.1 132.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">20</tspan></text>
+      <path id="path59990" d="M131.16,146.17h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59992" d="M122.67,137.66v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.9,139.91h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.74 144.34)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">21</tspan></text>
+      <path id="path59490" d="M145.51,146.17h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59492" d="M137.02,137.66v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.25,139.91h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.09 144.34)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">22</tspan></text>
+      <path id="path59966" d="M131.15,158.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59968" d="M122.66,149.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.89,151.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.73 156.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">23</tspan></text>
+      <path id="path57005" d="M145.5,158.17h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path57007" d="M137.01,149.66v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.24,151.91h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.08 156.34)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">24</tspan></text>
+      <path id="path59942" d="M131.17,170.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59944" d="M122.68,161.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.91,163.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.75 168.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">25</tspan></text>
+      <path id="path56999" d="M145.53,170.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path57001" d="M137.04,161.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.27,163.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.11 168.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">26</tspan></text>
+      <path id="path59918" d="M131.12,182.17h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59920" d="M122.63,173.66v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.86,175.91h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.7 180.34)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">27</tspan></text>
+      <path id="path56993" d="M145.54,182.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path56995" d="M137.05,173.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.28,175.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.12 180.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">28</tspan></text>
+      <path id="path59894" d="M131.13,194.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59896" d="M122.64,185.65v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.87,187.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.71 192.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">29</tspan></text>
+      <path id="path56987" d="M145.49,194.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path56989" d="M137.01,185.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.23,187.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.07 192.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">30</tspan></text>
+      <path id="path59870" d="M131.13,206.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59872" d="M122.65,197.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM124.87,199.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(125.72 204.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">31</tspan></text>
+      <path id="path56981" d="M145.48,206.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path56983" d="M137,197.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM139.22,199.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(140.06 204.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">32</tspan></text>
+      <text transform="translate(127.23 11.47)" style="fill: #333; font-family: Consolas-Bold, Consolas; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">P2</tspan></text>
+      <path id="path60246" d="M54.87,18.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #f55; fill-rule: evenodd;"/>
+      <text transform="translate(61.79 25.84)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px; isolation: isolate;"><tspan x="0" y="0">3.3V</tspan></text>
+      <path id="path60246-2" data-name="path60246" d="M54.87,30.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(61.25 37.83)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO00</tspan></text>
+      <path id="path60246-3" data-name="path60246" d="M54.87,42.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-4" data-name="path60246" d="M54.87,54.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-5" data-name="path60246" d="M54.87,66.4c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-6" data-name="path60246" d="M54.87,78.4c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #4e4c4c; fill-rule: evenodd;"/>
+      <path id="path60246-7" data-name="path60246" d="M54.87,90.41c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-8" data-name="path60246" d="M54.87,102.41c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-9" data-name="path60246" d="M54.87,114.42c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-10" data-name="path60246" d="M54.87,126.42c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #4e4c4c; fill-rule: evenodd;"/>
+      <path id="path60246-11" data-name="path60246" d="M54.87,138.43c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-12" data-name="path60246" d="M54.87,150.43c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #5fd38d; fill-rule: evenodd;"/>
+      <path id="path60246-13" data-name="path60246" d="M54.87,162.43c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-14" data-name="path60246" d="M54.87,174.44c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-15" data-name="path60246" d="M54.87,186.44c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #4e4c4c; fill-rule: evenodd;"/>
+      <text transform="translate(63.52 193.89)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px; isolation: isolate;"><tspan x="0" y="0">GND</tspan></text>
+      <path id="path60246-16" data-name="path60246" d="M54.87,198.45c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #f55; fill-rule: evenodd;"/>
+      <text transform="translate(61.25 205.89)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px; isolation: isolate;"><tspan x="0" y="0">3.3V</tspan></text>
+      <text transform="translate(61.25 61.84)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO20</tspan></text>
+      <text transform="translate(61.25 73.84)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO29</tspan></text>
+      <text transform="translate(63.52 85.85)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">GND</tspan></text>
+      <text transform="translate(61.25 97.85)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO28</tspan></text>
+      <text transform="translate(61.25 109.86)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO30</tspan></text>
+      <text transform="translate(61.25 121.86)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO43</tspan></text>
+      <text transform="translate(63.52 133.87)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">GND</tspan></text>
+      <text transform="translate(61.25 145.87)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO33</tspan></text>
+      <text transform="translate(63.52 157.88)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">A05</tspan></text>
+      <text transform="translate(61.25 169.88)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO46</tspan></text>
+      <text transform="translate(61.25 181.88)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO34</tspan></text>
+      <text transform="translate(61.25 49.84)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO38</tspan></text>
+      <path id="path60246-17" data-name="path60246" d="M184.47,18.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #f55; fill-rule: evenodd;"/>
+      <text transform="translate(191.39 25.84)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px; isolation: isolate;"><tspan x="0" y="0">3.3V</tspan></text>
+      <path id="path60246-18" data-name="path60246" d="M184.47,30.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(193.12 37.83)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">GND</tspan></text>
+      <path id="path60246-19" data-name="path60246" d="M184.47,42.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #5fd38d; fill-rule: evenodd;"/>
+      <path id="path60246-20" data-name="path60246" d="M184.47,54.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-21" data-name="path60246" d="M184.47,66.4c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-22" data-name="path60246" d="M184.47,78.4c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #4e4c4c; fill-rule: evenodd;"/>
+      <path id="path60246-23" data-name="path60246" d="M184.47,90.41c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-24" data-name="path60246" d="M184.47,102.41c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-25" data-name="path60246" d="M184.47,114.42c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-26" data-name="path60246" d="M184.47,126.42c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #4e4c4c; fill-rule: evenodd;"/>
+      <path id="path60246-27" data-name="path60246" d="M184.47,138.43c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #5fd38d; fill-rule: evenodd;"/>
+      <path id="path60246-28" data-name="path60246" d="M184.47,150.43c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #5fd38d; fill-rule: evenodd;"/>
+      <path id="path60246-29" data-name="path60246" d="M184.47,162.43c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-30" data-name="path60246" d="M184.47,174.44c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <path id="path60246-31" data-name="path60246" d="M184.47,186.44c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #4e4c4c; fill-rule: evenodd;"/>
+      <text transform="translate(193.12 193.89)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px; isolation: isolate;"><tspan x="0" y="0">GND</tspan></text>
+      <path id="path60246-32" data-name="path60246" d="M184.47,198.45c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #f55; fill-rule: evenodd;"/>
+      <text transform="translate(190.85 205.89)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px; isolation: isolate;"><tspan x="0" y="0">3.3V</tspan></text>
+      <text transform="translate(190.85 61.84)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO31</tspan></text>
+      <text transform="translate(190.85 73.84)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO26</tspan></text>
+      <text transform="translate(193.12 85.85)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">GND</tspan></text>
+      <text transform="translate(190.85 97.85)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO21</tspan></text>
+      <text transform="translate(190.85 109.86)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO32</tspan></text>
+      <text transform="translate(190.85 121.86)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO27</tspan></text>
+      <text transform="translate(193.12 133.87)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">GND</tspan></text>
+      <text transform="translate(193.12 145.87)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">A03</tspan></text>
+      <text transform="translate(193.12 157.88)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">A04</tspan></text>
+      <text transform="translate(190.85 169.88)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO24</tspan></text>
+      <text transform="translate(190.85 181.88)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO35</tspan></text>
+      <text transform="translate(193.12 49.84)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">A02</tspan></text>
+      <path id="path22" d="M3.7,30.39c-.29,0-.55.18-.65.45L.05,38.44c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H3.7Z" style="fill: #5f8dd3; fill-rule: evenodd;"/>
+      <text transform="translate(8.22 37.51)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">SYS_CTRL</tspan></text>
+      <path id="path22-2" data-name="path22" d="M3.7,174.39c-.29,0-.55.18-.65.45L.05,182.44c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H3.7Z" style="fill: #5f8dd3; fill-rule: evenodd;"/>
+      <text transform="translate(19.54 181.51)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">SDA</tspan></text>
+      <path id="path22-3" data-name="path22" d="M3.7,150.43c-.29,0-.55.18-.65.45L.05,158.48c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H3.7Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(17.28 157.55)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">LED5</tspan></text>
+      <path id="path22-4" data-name="path22" d="M221.24,174.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #5f8dd3; fill-rule: evenodd;"/>
+      <text transform="translate(237.09 181.51)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">SCL</tspan></text>
+      <path id="path22-5" data-name="path22" d="M221.24,150.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(234.83 157.51)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">LED4</tspan></text>
+      <path id="path22-6" data-name="path22" d="M221.24,138.43c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(234.83 145.55)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">LED3</tspan></text>
+      <path id="path22-7" data-name="path22" d="M221.24,42.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(234.83 49.51)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">LED2</tspan></text>
+    </g>
+  </g>
+</svg>

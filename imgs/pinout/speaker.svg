@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167.87 54.95">
+  <g id="Speakers">
+    <g>
+      <circle id="circle57437" cx="112.74" cy="34.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57455" cx="112.74" cy="22.89" r="4.21" style="fill: #fc0;"/>
+      <circle id="circle57419" cx="112.74" cy="46.89" r="4.21" style="fill: #fc0;"/>
+      <rect id="rect60306" x="67.54" y="14.84" width="32.42" height="40.11" style="fill: #333;"/>
+      <path id="path57427" d="M141.31,46.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57421" cx="112.74" cy="46.89" r="2.32"/>
+      <path id="path57445" d="M141.31,34.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57439" cx="112.74" cy="34.89" r="2.32"/>
+      <path id="path57463" d="M141.31,22.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57457" cx="112.74" cy="22.89" r="2.32"/>
+      <circle id="circle60188" cx="55.14" cy="46.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60196" d="M54.91,46.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60190" cx="55.14" cy="46.89" r="2.32"/>
+      <circle id="circle60212" cx="55.14" cy="34.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60220" d="M54.91,34.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60214" cx="55.14" cy="34.89" r="2.32"/>
+      <circle id="circle60236" cx="55.14" cy="22.89" r="4.21" style="fill: #fc0;"/>
+      <path id="path60244" d="M54.91,22.89h-28.36" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle60238" cx="55.14" cy="22.89" r="2.32"/>
+      <path id="path60230" d="M79.99,26.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60232" d="M71.51,17.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM73.74,19.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(74.58 24.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">01</tspan></text>
+      <path id="path59550" d="M94.39,26.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59552" d="M85.91,17.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM88.14,19.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(88.93 24.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">02</tspan></text>
+      <path id="path60206" d="M79.98,38.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60208" d="M71.5,29.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM73.73,31.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(74.57 36.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">03</tspan></text>
+      <path id="path59544" d="M94.33,38.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59546" d="M85.85,29.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM88.08,31.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(88.92 36.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">04</tspan></text>
+      <path id="path60182" d="M79.99,50.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path60184" d="M71.51,41.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM73.74,43.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(74.58 48.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">05</tspan></text>
+      <path id="path59538" d="M94.36,50.15h-6.51v-6.51h6.51v6.51Z" style="isolation: isolate; opacity: .74;"/>
+      <path id="path59540" d="M85.88,41.64v.02h-.02l.02.02v10.41l-.02.02h.02v.03l.03-.03h10.41l.03.03v-.03h.02l-.02-.02v-10.41l.02-.02h-.02v-.02l-.02.02h-10.41l-.02-.02ZM88.11,43.89h6v6h-6v-6Z" style="fill: #666; isolation: isolate; opacity: .74;"/>
+      <text transform="translate(88.95 48.32)" style="fill: #fc0; font-family: Consolas-Bold, Consolas; font-size: 4px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">06</tspan></text>
+      <text transform="translate(52.96 11.47)" style="fill: #333; font-family: Consolas-Bold, Consolas; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">SPEAKERS</tspan></text>
+      <path id="path60246" d="M3.7,18.39c-.29,0-.55.18-.65.45L.05,26.44c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H3.7Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(8.35 25.84)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">LEFT+</tspan></text>
+      <path id="path60246-2" data-name="path60246" d="M3.7,30.39c-.29,0-.55.18-.65.45L.05,38.43c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H3.7Z" style="fill: #4e4c4c; fill-rule: evenodd;"/>
+      <text transform="translate(12.34 37.83)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">GND</tspan></text>
+      <path id="path60246-3" data-name="path60246" d="M3.7,42.39c-.29,0-.55.18-.65.45L.05,50.44c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H3.7Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(5.55 49.84)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">RIGHT+</tspan></text>
+      <path id="path60246-4" data-name="path60246" d="M133.3,18.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(137.95 25.84)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">LEFT-</tspan></text>
+      <path id="path60246-5" data-name="path60246" d="M133.3,30.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #4e4c4c; fill-rule: evenodd;"/>
+      <text transform="translate(141.94 37.83)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">GND</tspan></text>
+      <path id="path60246-6" data-name="path60246" d="M133.3,42.39c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-33.88Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(135.15 49.84)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">RIGHT-</tspan></text>
+    </g>
+  </g>
+</svg>

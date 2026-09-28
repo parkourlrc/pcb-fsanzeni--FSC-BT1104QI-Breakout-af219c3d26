@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161.96 147.94">
+  <g id="Test_Points" data-name="Test Points">
+    <g>
+      <circle id="circle57419" cx="4.21" cy="4.5" r="4.21" style="fill: #fc0;"/>
+      <path id="path57427" d="M32.79,4.5H4.43" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57421" cx="4.21" cy="4.5" r="2.32"/>
+      <path id="path60246" d="M24.77,0c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6C59.47.5,59.13,0,58.64,0H24.77Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(33.41 7.45)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">TP1</tspan></text>
+      <circle id="circle57419-2" data-name="circle57419" cx="4.21" cy="21.75" r="4.21" style="fill: #fc0;"/>
+      <path id="path57427-2" data-name="path57427" d="M32.79,21.75H4.43" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57421-2" data-name="circle57421" cx="4.21" cy="21.75" r="2.32"/>
+      <path id="path60246-2" data-name="path60246" d="M24.77,17.25c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H24.77Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(33.41 24.7)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">TP2</tspan></text>
+      <circle id="circle57419-3" data-name="circle57419" cx="4.21" cy="39" r="4.21" style="fill: #fc0;"/>
+      <path id="path57427-3" data-name="path57427" d="M32.79,39H4.43" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57421-3" data-name="circle57421" cx="4.21" cy="39" r="2.32"/>
+      <path id="path60246-3" data-name="path60246" d="M24.77,34.5c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H24.77Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(33.41 41.95)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">TP3</tspan></text>
+      <circle id="circle57419-4" data-name="circle57419" cx="4.21" cy="56.25" r="4.21" style="fill: #fc0;"/>
+      <path id="path57427-4" data-name="path57427" d="M32.79,56.25H4.43" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57421-4" data-name="circle57421" cx="4.21" cy="56.25" r="2.32"/>
+      <path id="path60246-4" data-name="path60246" d="M24.77,51.75c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H24.77Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(33.41 59.2)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">TP4</tspan></text>
+      <circle id="circle57419-5" data-name="circle57419" cx="4.21" cy="73.5" r="4.21" style="fill: #fc0;"/>
+      <path id="path57427-5" data-name="path57427" d="M32.79,73.5H4.43" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57421-5" data-name="circle57421" cx="4.21" cy="73.5" r="2.32"/>
+      <path id="path60246-5" data-name="path60246" d="M24.77,69c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H24.77Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(33.41 76.45)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">TP5</tspan></text>
+      <circle id="circle57419-6" data-name="circle57419" cx="4.21" cy="90.75" r="4.21" style="fill: #fc0;"/>
+      <path id="path57427-6" data-name="path57427" d="M32.79,90.75H4.43" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57421-6" data-name="circle57421" cx="4.21" cy="90.75" r="2.32"/>
+      <path id="path60246-6" data-name="path60246" d="M24.77,86.25c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H24.77Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(33.41 93.7)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">TP6</tspan></text>
+      <circle id="circle57419-7" data-name="circle57419" cx="4.21" cy="108" r="4.21" style="fill: #fc0;"/>
+      <path id="path57427-7" data-name="path57427" d="M32.79,108H4.43" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57421-7" data-name="circle57421" cx="4.21" cy="108" r="2.32"/>
+      <path id="path60246-7" data-name="path60246" d="M24.77,103.5c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H24.77Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(33.41 110.95)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">TP7</tspan></text>
+      <path id="path22" d="M61.54,0c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #f55; fill-rule: evenodd;"/>
+      <text transform="translate(79.72 7.12)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">5V</tspan></text>
+      <path id="path22-2" data-name="path22" d="M61.54,17.25c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #5f8dd3; fill-rule: evenodd;"/>
+      <text transform="translate(75.19 24.37)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">R232</tspan></text>
+      <path id="path22-3" data-name="path22" d="M61.54,34.5c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #5f8dd3; fill-rule: evenodd;"/>
+      <text transform="translate(77.46 41.62)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">DSR</tspan></text>
+      <path id="path22-4" data-name="path22" d="M61.54,51.75c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #f55; fill-rule: evenodd;"/>
+      <text transform="translate(75.19 58.87)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">3.3V</tspan></text>
+      <path id="path22-5" data-name="path22" d="M61.54,69c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #5f8dd3; fill-rule: evenodd;"/>
+      <text transform="translate(79.72 76.12)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">RI</tspan></text>
+      <path id="path22-6" data-name="path22" d="M61.54,86.25c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #5f8dd3; fill-rule: evenodd;"/>
+      <text transform="translate(77.46 93.37)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">DCD</tspan></text>
+      <path id="path22-7" data-name="path22" d="M61.54,103.5c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #5f8dd3; fill-rule: evenodd;"/>
+      <text transform="translate(77.46 110.62)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">DTR</tspan></text>
+      <path id="path57427-8" data-name="path57427" d="M90.74,35.46h-12.85" style="fill: none; fill-rule: evenodd; stroke: #fff; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <path id="path57427-9" data-name="path57427" d="M88.09,69.88h-7.54" style="fill: none; fill-rule: evenodd; stroke: #fff; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <path id="path57427-10" data-name="path57427" d="M90.74,87.2h-12.85" style="fill: none; fill-rule: evenodd; stroke: #fff; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <path id="path57427-11" data-name="path57427" d="M90.74,104.38h-12.85" style="fill: none; fill-rule: evenodd; stroke: #fff; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <circle id="circle57419-8" data-name="circle57419" cx="4.21" cy="125.25" r="4.21" style="fill: #fc0;"/>
+      <path id="path57427-12" data-name="path57427" d="M32.79,125.25H4.43" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57421-8" data-name="circle57421" cx="4.21" cy="125.25" r="2.32"/>
+      <path id="path60246-8" data-name="path60246" d="M24.77,120.75c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H24.77Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(33.41 128.2)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">TP8</tspan></text>
+      <circle id="circle57419-9" data-name="circle57419" cx="4.21" cy="142.5" r="4.21" style="fill: #fc0;"/>
+      <path id="path57427-13" data-name="path57427" d="M32.79,142.5H4.43" style="fill: #4e4c4c; fill-rule: evenodd; stroke: #4e4c4c; stroke-miterlimit: 3.2; stroke-width: 1.2px;"/>
+      <circle id="circle57421-9" data-name="circle57421" cx="4.21" cy="142.5" r="2.32"/>
+      <path id="path60246-9" data-name="path60246" d="M24.77,138c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h33.91c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96H24.77Z" style="fill: #e9ba33; fill-rule: evenodd;"/>
+      <text transform="translate(33.41 145.45)" style="fill: #423f42; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">TP9</tspan></text>
+      <path id="path22-8" data-name="path22" d="M61.54,120.75c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #5f8dd3; fill-rule: evenodd;"/>
+      <text transform="translate(75.19 127.87)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">IO01</tspan></text>
+      <path id="path22-9" data-name="path22" d="M61.54,138c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #4e4c4c; fill-rule: evenodd;"/>
+      <text transform="translate(77.46 145.12)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">GND</tspan></text>
+      <path id="path22-10" data-name="path22" d="M112.99,120.75c-.29,0-.55.18-.65.45l-2.99,7.6c-.18.46.16.96.65.96h48.31c.29,0,.55-.18.65-.45l2.96-7.6c.18-.46-.16-.96-.65-.96h-48.28Z" style="fill: #5f8dd3; fill-rule: evenodd;"/>
+      <text transform="translate(128.9 127.87)" style="fill: #fff; font-family: Consolas, Consolas; font-size: 8.24px;"><tspan x="0" y="0">RST</tspan></text>
+      <path id="path57427-14" data-name="path57427" d="M142.19,121.63h-12.85" style="fill: none; fill-rule: evenodd; stroke: #fff; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+  </g>
+</svg>
